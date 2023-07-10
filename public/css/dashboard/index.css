@@ -1,0 +1,16 @@
+.card-item-total{
+    font-size: 32px;
+}
+.card-item-name{
+    font-size: 15px;
+}
+.font-20{
+    font-size: 20px;
+}
+.border{
+    border: 1px solid rgb(113, 114, 122) !important;
+    cursor: pointer;
+}
+.border:hover{
+    color: rgb(201, 70, 201);
+}

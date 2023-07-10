@@ -1,0 +1,192 @@
+@font-face {
+    font-family: 'GT Zirkon Book';
+    src: url('GTZirkon-BookItalic.eot');
+    src: local('GT Zirkon Book Italic'), local('GTZirkon-BookItalic'),
+        url('GTZirkon-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-BookItalic.woff2') format('woff2'),
+        url('GTZirkon-BookItalic.woff') format('woff'),
+        url('GTZirkon-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Medium.eot');
+    src: local('GT Zirkon Medium'), local('GTZirkon-Medium'),
+        url('GTZirkon-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Medium.woff2') format('woff2'),
+        url('GTZirkon-Medium.woff') format('woff'),
+        url('GTZirkon-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Italic.eot');
+    src: local('GT Zirkon Italic'), local('GTZirkon-Italic'),
+        url('GTZirkon-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Italic.woff2') format('woff2'),
+        url('GTZirkon-Italic.woff') format('woff'),
+        url('GTZirkon-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Light.eot');
+    src: local('GT Zirkon Light'), local('GTZirkon-Light'),
+        url('GTZirkon-Light.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Light.woff2') format('woff2'),
+        url('GTZirkon-Light.woff') format('woff'),
+        url('GTZirkon-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-LightItalic.eot');
+    src: local('GT Zirkon Light Italic'), local('GTZirkon-LightItalic'),
+        url('GTZirkon-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-LightItalic.woff2') format('woff2'),
+        url('GTZirkon-LightItalic.woff') format('woff'),
+        url('GTZirkon-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-MediumItalic.eot');
+    src: local('GT Zirkon Medium Italic'), local('GTZirkon-MediumItalic'),
+        url('GTZirkon-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-MediumItalic.woff2') format('woff2'),
+        url('GTZirkon-MediumItalic.woff') format('woff'),
+        url('GTZirkon-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Bold.eot');
+    src: local('GT Zirkon Bold'), local('GTZirkon-Bold'),
+        url('GTZirkon-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Bold.woff2') format('woff2'),
+        url('GTZirkon-Bold.woff') format('woff'),
+        url('GTZirkon-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-ThinItalic.eot');
+    src: local('GT Zirkon Thin Italic'), local('GTZirkon-ThinItalic'),
+        url('GTZirkon-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-ThinItalic.woff2') format('woff2'),
+        url('GTZirkon-ThinItalic.woff') format('woff'),
+        url('GTZirkon-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon Ultra';
+    src: url('GTZirkon-UltraLight.eot');
+    src: local('GT Zirkon Ultra Light'), local('GTZirkon-UltraLight'),
+        url('GTZirkon-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-UltraLight.woff2') format('woff2'),
+        url('GTZirkon-UltraLight.woff') format('woff'),
+        url('GTZirkon-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon Ultra';
+    src: url('GTZirkon-UltraLightItalic.eot');
+    src: local('GT Zirkon Ultra Light Italic'), local('GTZirkon-UltraLightItalic'),
+        url('GTZirkon-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-UltraLightItalic.woff2') format('woff2'),
+        url('GTZirkon-UltraLightItalic.woff') format('woff'),
+        url('GTZirkon-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon Book';
+    src: url('GTZirkon-Book.eot');
+    src: local('GT Zirkon Book'), local('GTZirkon-Book'),
+        url('GTZirkon-Book.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Book.woff2') format('woff2'),
+        url('GTZirkon-Book.woff') format('woff'),
+        url('GTZirkon-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Thin.eot');
+    src: local('GT Zirkon Thin'), local('GTZirkon-Thin'),
+        url('GTZirkon-Thin.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Thin.woff2') format('woff2'),
+        url('GTZirkon-Thin.woff') format('woff'),
+        url('GTZirkon-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Black.eot');
+    src: local('GT Zirkon Black'), local('GTZirkon-Black'),
+        url('GTZirkon-Black.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Black.woff2') format('woff2'),
+        url('GTZirkon-Black.woff') format('woff'),
+        url('GTZirkon-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-Regular.eot');
+    src: local('GT Zirkon Regular'), local('GTZirkon-Regular'),
+        url('GTZirkon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-Regular.woff2') format('woff2'),
+        url('GTZirkon-Regular.woff') format('woff'),
+        url('GTZirkon-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-BoldItalic.eot');
+    src: local('GT Zirkon Bold Italic'), local('GTZirkon-BoldItalic'),
+        url('GTZirkon-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-BoldItalic.woff2') format('woff2'),
+        url('GTZirkon-BoldItalic.woff') format('woff'),
+        url('GTZirkon-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT Zirkon';
+    src: url('GTZirkon-BlackItalic.eot');
+    src: local('GT Zirkon Black Italic'), local('GTZirkon-BlackItalic'),
+        url('GTZirkon-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('GTZirkon-BlackItalic.woff2') format('woff2'),
+        url('GTZirkon-BlackItalic.woff') format('woff'),
+        url('GTZirkon-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+

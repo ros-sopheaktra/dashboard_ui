@@ -1,0 +1,77 @@
+/* body font family */
+body{
+    font-family: 'GT Zirkon';
+    font-weight: 500;
+    font-style: normal;
+}
+/* login content wrapper */
+.login-conent-wrapper{
+    border: solid 1.5px #272424;
+    max-width: 280px;
+    height: 330px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+/* login body wrapper */
+.login-body-wrapper{
+    padding: 1.4rem 1.3rem;
+}
+/* text sing in */
+.loing-text{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+/* form login */
+.form-login{
+    margin-top: 20px;
+}
+/* password */
+.password-ipunt-wrapper{
+    display: flex;
+}
+#show-password{
+    margin: 5px 10px 0 10px;
+    cursor: pointer;
+}
+/* backgroup purple */
+.btn-purple{
+    background-color: #d4bde9 !important;
+    border: solid 1px #272424;
+}
+.border-wrapper{
+    border: solid 1px #272424 !important;
+    border-radius: var(--bs-border-radius);
+}
+
+/*=================================
+            Media Query 
+===================================*/
+/* Tablet Screen Size [ 425px <=> 768px ] */
+@media only screen and ( min-width: 425px) {
+    /* login content wrapper */
+    .login-conent-wrapper{
+        max-width: 380px;
+    }
+}
+
+/* Tablet Screen Size [ 768px <=> 1024px ] */
+@media only screen and ( min-width: 768px) {
+    /* login content wrapper */
+    .login-conent-wrapper{
+        max-width: 500px;
+        height: 340px;
+    }
+    /* login body wrapper */
+    .login-body-wrapper{
+        padding: 1.4rem 1.5rem;
+    }
+    /* text sing in */
+    .loing-text{
+        text-transform: uppercase;
+        font-size: 32px;
+    }
+}
